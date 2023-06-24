@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "brand": "Nike",
+        "name": "Air Max 90",
+        "price": 129.99,
+        "color": "Black/White",
+        "rating": 5,
+        "size": [
+            "US 8",
+            "US 9",
+            "US 10"
+        ],
+        "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Nike Air Max 90 is a classic sneaker known for its iconic design and comfortable cushioning. It features a leather and mesh upper for durability and breathability. The Air Max unit in the heel provides responsive cushioning, while the rubber outsole offers excellent traction.",
+        "availability": true
+    },
+    {
+        "id": 2,
+        "brand": "Adidas",
+        "name": "Ultra Boost",
+        "price": 179.99,
+        "color": "Grey/Black",
+        "rating": 5,
+        "size": [
+            "US 7",
+            "US 9.5",
+            "US 11"
+        ],
+        "image": "https://images.pexels.com/photos/3194608/pexels-photo-3194608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Adidas Ultra Boost is a premium running shoe designed for maximum comfort and energy return. It features a Primeknit upper that adapts to your foot's movement, while the Boost midsole provides exceptional cushioning and responsiveness. The Torsion System offers stability, and the Continental Rubber outsole delivers superior traction.",
+        "availability": true
+    },
+    {
+        "id": 3,
+        "brand": "Puma",
+        "name": "Suede Classic",
+        "price": 79.99,
+        "color": "Blue/White",
+        "rating": 5,
+        "size": [
+            "US 6.5",
+            "US 8.5",
+            "US 10.5"
+        ],
+        "image": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Puma Suede Classic is a timeless sneaker that combines style and comfort. It features a suede upper with a contrasting Puma Formstrip for a retro look. The padded collar and cushioned insole provide all-day comfort, while the rubber outsole offers traction and durability.",
+        "availability": true
+    },
+    {
+        "id": 4,
+        "brand": "Reebok",
+        "name": "Classic Leather",
+        "price": 89.99,
+        "color": "White/Gum",
+        "rating": 5,
+        "size": [
+            "US 8",
+            "US 9.5",
+            "US 11"
+        ],
+        "image": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Reebok Classic Leather is an iconic sneaker that has stood the test of time. It features a soft leather upper for a premium feel and added durability. The EVA midsole provides lightweight cushioning, while the high-abrasion rubber outsole offers traction and durability on various surfaces.",
+        "availability": false
+    },
+    {
+        "id": 5,
+        "brand": "Vans",
+        "name": "Authentic",
+        "price": 59.99,
+        "color": "Black/Black",
+        "rating": 5,
+        "size": [
+            "US 7",
+            "US 9",
+            "US 10.5"
+        ],
+        "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Vans Authentic is a classic skateboarding shoe loved for its simple yet timeless design. It features a canvas upper, metal eyelets, and the signature Vans waffle outsole. The padded footbed provides comfort, while the vulcanized construction ensures excellent grip and durability.",
+        "availability": true
+    },
+    {
+        "id": 6,
+        "brand": "Converse",
+        "name": "Chuck Taylor All Star",
+        "price": 69.99,
+        "color": "Red",
+        "rating": 5,
+        "size": [
+            "US 6.5",
+            "US 8",
+            "US 9.5"
+        ],
+        "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Converse Chuck Taylor All Star is a classic basketball shoe that has become a style icon. It features a canvas upper, rubber toe cap, and the distinctive All Star patch. The cushioned footbed provides comfort, while the vulcanized rubber outsole offers traction and durability.",
+        "availability": true
+    },
+    {
+        "id": 7,
+        "brand": "New Balance",
+        "name": "574",
+        "price": 89.99,
+        "color": "Navy/Grey",
+        "rating": 5,
+        "size": [
+            "US 7.5",
+            "US 9",
+            "US 11"
+        ],
+        "image": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The New Balance 574 is a versatile sneaker that combines style and comfort. It features a suede and mesh upper for a retro look and breathability. The ENCAP midsole provides cushioning and support, while the rubber outsole offers traction on various surfaces.",
+        "availability": true
+    },
+    {
+        "id": 8,
+        "brand": "Skechers",
+        "name": "Go Walk 5",
+        "price": 79.99,
+        "color": "Black/White",
+        "rating": 5,
+        "size": [
+            "US 8.5",
+            "US 10",
+            "US 11.5"
+        ],
+        "image": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Skechers Go Walk 5 is a lightweight and comfortable walking shoe. It features a breathable mesh upper and a responsive Ultra Go cushioning midsole. The Air Cooled Goga Mat insole provides support and cushioning, while the durable rubber outsole offers traction.",
+        "availability": true
+    },
+    {
+        "id": 9,
+        "brand": "ASICS",
+        "name": "GEL-Kayano 27",
+        "price": 159.99,
+        "color": "Grey/Blue",
+        "rating": 5,
+        "size": [
+            "US 7.5",
+            "US 9.5",
+            "US 11"
+        ],
+        "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The ASICS GEL-Kayano 27 is a high-performance running shoe designed for stability and comfort. It features a breathable mesh upper and a supportive GEL cushioning system. The FlyteFoam midsole provides lightweight cushioning and energy return, while the AHAR rubber outsole offers excellent durability.",
+        "availability": true
+    },
+    {
+        "id": 10,
+        "brand": "Under Armour",
+        "name": "HOVR Phantom 2",
+        "price": 129.99,
+        "color": "Black/White",
+        "rating": 5,
+        "size": [
+            "US 8",
+            "US 9.5",
+            "US 10.5"
+        ],
+        "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The Under Armour HOVR Phantom 2 is a versatile running shoe with a sleek design. It features a breathable and lightweight upper, along with UA HOVR technology that provides a responsive and cushioned ride. The rubber outsole offers traction and durability, making it suitable for both running and everyday wear.",
+        "availability": true
+    }
+]
